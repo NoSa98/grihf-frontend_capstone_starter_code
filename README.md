@@ -1,1 +1,1 @@
-# grihf-frontend_capstone_starter_code
+notes about the Medical Appointment Booking
